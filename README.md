@@ -1,5 +1,6 @@
 Sie können neue geometrische Objekte via Kommandozeile hinzufügen, löschen und lesen.
-Diese Anwendung ist im Python geschrieben.
+
+Diese Anwendung ist in Python geschrieben.
 
 ***********************************************************
 * Willkommen bei der Geometrien-Verwaltung!               *
